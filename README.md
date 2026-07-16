@@ -34,14 +34,7 @@ Currently a **Senior Technical Product Manager at PwC**, leading teams that buil
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=augustyndamian&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustyndamian&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustyndamian&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=augustyndamian&hide_border=true&area=true" />
-</p>
+
