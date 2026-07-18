@@ -31,9 +31,3 @@ Currently a **Senior Technical Product Manager at PwC**, leading teams that buil
 🌱 **Building products with AI Agents, RAG, or LLMs? I'd love to talk shop and trade notes.**
 
 📫 [LinkedIn](https://www.linkedin.com/in/damianaugustyn) · augustyndamian522@gmail.com
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustyndamian&hide_border=true" />
-</p>
