@@ -15,6 +15,7 @@ Currently a **Senior Technical Product Manager at PwC**, leading teams that buil
 
 ## Selected things I've built
 
+- 🧠 **[Second Brain](https://github.com/augustyndamian/second-brain)** — a personal knowledge base + task manager driven by Claude Code: macOS desktop app, kanban CLI, daily/weekly planning workflow, and an Observer/Reflector memory system so the assistant remembers you between sessions. Local-first, plain YAML + markdown, doubles as an Obsidian vault.
 - 📄 **AI document extraction & grouping platform** — owned end-to-end, from discovery workshops with audit teams to delivery; cut audit document processing time by 75% (4 days → 1) at PwC.
 - 🤖 **CUA test automation platform** — converts natural-language test descriptions into reusable Playwright suites via a dual-agent (execution + verification) system. Business testers with zero coding skills now produce automated UI tests for Guidewire, Salesforce, and Workday.
 - 🧠 **Agentic RAG assistant for Guidewire consultants** — the best-adopted AI solution in PwC AI Consulting Factory's 2025 portfolio.
@@ -36,5 +37,3 @@ Currently a **Senior Technical Product Manager at PwC**, leading teams that buil
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustyndamian&hide_border=true" />
 </p>
-
-
