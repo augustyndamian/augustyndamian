@@ -20,7 +20,7 @@ Currently a **Senior Technical Product Manager at PwC**, leading teams that buil
 - 🤖 **CUA test automation platform** — converts natural-language test descriptions into reusable Playwright suites via a dual-agent (execution + verification) system. Business testers with zero coding skills now produce automated UI tests for Guidewire, Salesforce, and Workday.
 - 🧠 **Agentic RAG assistant for Guidewire consultants** — the best-adopted AI solution in PwC AI Consulting Factory's 2025 portfolio.
 - 🃏 **[10xCards.pl](https://github.com/genaicodedamian/10x-cards)** — full-stack app (TypeScript, Astro, Supabase) generating flashcards with LLMs.
-- 🛒 **WooCommerce Auto-adder** — automation that cut product creation time from ~30 minutes to 1.
+- 🛒 **WooCommerce Product Generator** — automation that cut product creation time from ~30 minutes to 1.
 
 ## About me
 
