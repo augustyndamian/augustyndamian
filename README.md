@@ -37,4 +37,4 @@ Currently leading GenAI product teams at **PwC**.
 
 🌱 **Building products with AI agents, RAG, or LLMs? I'd love to talk shop.**
 
-📫 [LinkedIn]([https://www.linkedin.com/in/damianaugustyn)](https://www.linkedin.com/in/damian-augustyn-33723449/) · augustyndamian522@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/damian-augustyn-33723449/) · augustyndamian522@gmail.com
