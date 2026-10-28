@@ -5,11 +5,12 @@ Currently leading GenAI product teams at **PwC**.
 
 ## What I work on
 
+- **Agentic SDLC & CI/CD**: end-to-end AI-driven software development, autonomous coding agents, agent-orchestrated testing, deployment, and CI/CD pipelines
 - **Agentic AI**: multi-agent architectures, computer-use agents (CUA), NLP→SQL, MCP integrations
-- **RAG in production**: document extraction, knowledge assistants, agentic RAG for technical docs
-- **AI-assisted development**: full products with Claude Code, from CLI automations to full-stack apps
-- **E-commerce automation**: programmatic Meta Ads, WooCommerce tooling, product catalog pipelines
-- **Product craft**: discovery workshops, design sprints, 0→1 in corporate and startup settings
+- **RAG in production**: document extraction, knowledge assistants, agentic RAG for technical documentation
+- **AI-assisted development**: building complete products with Claude Code, from CLI automations to full-stack applications
+- **E-commerce automation**: automated omnichannel marketing workflows and product catalog management pipelines
+- **Product craft**: discovery workshops, design sprints, 0→1 product development in corporate and startup environments
 
 ## Selected things I've built
 
